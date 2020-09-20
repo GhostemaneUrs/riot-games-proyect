@@ -1,0 +1,915 @@
+button,
+input,
+select {
+  outline: none !important;
+}
+
+body {
+  font-family: "Kumbh Sans", sans-serif;
+}
+
+.fl-colum {
+  flex-direction: column;
+}
+
+.colr_white {
+  color: white !important;
+}
+
+.colr_white:hover {
+  color: #dcba58 !important;
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+  color: #dcba58;
+}
+
+.overflow-hidden {
+  overflow: hidden;
+}
+
+.btn-desarr:hover {
+  background-color: rgb(65, 241, 65);
+  transform: scale(1.05);
+}
+
+.btn-league:hover {
+  background-color: #fe0000;
+  transform: scale(1.05);
+}
+
+.hover-cont:hover {
+  transform: scale(1.1);
+  background-color: #29292969 !important;
+}
+
+.row-a {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+.box-shadow {
+  box-shadow: 7px 14px 26px -9px black;
+}
+
+.white {
+  color: white;
+}
+
+.negro {
+  color: #111111;
+}
+
+.bg-header {
+  background-color: #111111;
+}
+
+.blu-lite {
+  color: #00bcd4;
+}
+
+.bg-white {
+  background-color: #ffffff;
+}
+
+.bg-floralwhite {
+  background-color: floralwhite;
+}
+
+.bg-gray {
+  background-color: #f4f0ef;
+}
+
+.f-colum {
+  flex-direction: column;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.d-block {
+  display: block;
+}
+
+.jc-center {
+  justify-content: center;
+}
+
+.jc-end {
+  justify-content: flex-end;
+}
+
+.jc-between {
+  justify-content: space-between;
+}
+
+.jc-around {
+  justify-content: space-around;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.t-justify {
+  text-align: justify;
+}
+
+.pt-20 {
+  padding-top: 20px;
+}
+
+.pb-20 {
+  padding-bottom: 20px;
+}
+
+.pt-30 {
+  padding-top: 30px;
+}
+
+.pb-30 {
+  padding-bottom: 30px;
+}
+
+.pt-40 {
+  padding-top: 40px;
+}
+
+.pb-40 {
+  padding-bottom: 40px;
+}
+
+.pt-50 {
+  padding-top: 50px;
+}
+
+.pb-50 {
+  padding-bottom: 50px;
+}
+
+.pb-5 {
+  padding-bottom: 5px;
+}
+
+.px-20 {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.py-20 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.px-10 {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.py-10 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.mt-5 {
+  margin-top: 5px;
+}
+
+.mb-5 {
+  margin-bottom: 5px;
+}
+
+.mx-8 {
+  margin-left: 8px;
+  margin-right: 8px;
+}
+
+.mt-10 {
+  margin-top: 10px;
+}
+
+.mb-10 {
+  margin-bottom: 10px;
+}
+
+.mb-80 {
+  margin-bottom: 80px;
+}
+
+.mb-20 {
+  margin-bottom: 20px;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.mt-30 {
+  margin-top: 30px;
+}
+
+.mb-30 {
+  margin-bottom: 30px;
+}
+
+.mx-10 {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.my-10 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.f-italic {
+  font-style: italic !important;
+}
+
+.mt-5 {
+  margin-top: 5px;
+}
+
+.mt-20 {
+  margin-top: 20px;
+}
+
+.mt-25 {
+  margin-top: 25px;
+}
+
+.mt-27 {
+  margin-top: 27px;
+}
+
+.mt-30 {
+  margin-top: 30px;
+}
+
+.mt-50 {
+  margin-top: 50px;
+}
+
+.mt-15 {
+  margin-top: 15px;
+}
+
+.mt-10 {
+  margin-top: 10px;
+}
+
+.mt-40 {
+  margin-top: 40px;
+}
+
+.mt-250 {
+  margin-top: 250px;
+}
+
+.mt-95 {
+  margin-top: 95px;
+}
+
+.fw-bold {
+  font-weight: bold;
+}
+
+.fz-12 {
+  font-size: 12px;
+}
+
+.fz-15 {
+  font-size: 15px;
+}
+
+.fz-20 {
+  font-size: 20px;
+}
+
+.fz-25 {
+  font-size: 25px;
+}
+
+.fz-30 {
+  font-size: 30px;
+}
+
+.fz-40 {
+  font-size: 40px;
+}
+
+.fz-50 {
+  font-size: 50px;
+}
+
+.fz-70 {
+  font-size: 70px;
+}
+
+.fz-80 {
+  font-size: 80px;
+}
+
+.btn-sutmib {
+  padding: 12px 33px;
+  border: none;
+  background-color: #0090b0;
+  font-size: 15px;
+  font-weight: bold;
+  color: #ffffff;
+  border-radius: 8px;
+}
+
+.btn-sutmib:hover {
+  background-color: #23a1bd;
+  transform: scale(1.1);
+}
+
+.tm-riot {
+  width: 90px;
+  height: 40px;
+}
+
+.h-600 {
+  height: 600px;
+}
+
+.bg-desarr {
+  background-color: #dcba58;
+  border-radius: 4%;
+  padding: 20px;
+  margin: 0 20px;
+}
+
+.bg-league {
+  background-color: #111111;
+  border-radius: 20px;
+  padding: 20px;
+  margin: 0 20px;
+}
+
+.btn-league {
+  padding: 10px 40px;
+  border: none;
+  border-radius: 15px;
+  color: white;
+  font-weight: bold;
+  background-color: #e51919;
+}
+
+.btn-desarr {
+  padding: 10px 40px;
+  border: none;
+  border-radius: 15px;
+  color: white;
+  font-weight: bold;
+  background-color: rgb(13, 216, 13);
+}
+
+.bord-botton {
+  border-bottom: 9px solid #111111;
+}
+
+.bg-negro {
+  background-image: url(../assets/img/negro.jpg);
+  background-size: cover;
+}
+
+.bradius-15 {
+  border-radius: 15px;
+}
+
+.borde-footer {
+  border-bottom: 1px solid rgb(63, 63, 63);
+}
+
+.glyphicon {
+  font-size: 50px;
+}
+
+.responsive-width {
+  font-size: 3vw;
+}
+
+/*---------------------------container -------------------*/
+
+@media (min-width: 1201px) {
+  .container-1360 {
+    width: 1330px !important;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+}
+
+@media (max-width: 1200px) {
+  .container-1360 {
+    width: 1170px;
+  }
+}
+
+@media (max-width: 992px) {
+  .container-1360 {
+    width: 970px;
+  }
+}
+
+@media (max-width: 768px) {
+  .container-1360 {
+    width: 750px;
+  }
+}
+
+/* 
+.container-1360 {
+  max-width: 600px;
+  width: 100%;
+
+} */
+
+/* ------------------------------------------- */
+
+@media (max-width: 425px) {
+  body #full-screen {
+    margin-top: 80px;
+    margin-bottom: 150px;
+  }
+}
+
+@media (max-width: 569px) {
+  body #full-screen {
+    margin-top: 80px;
+    margin-bottom: 180px;
+  }
+}
+
+@media (max-width: 769px) {
+  div #btn-play {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: medium;
+  }
+}
+
+@media (max-width: 425px) {
+  div #btn-play {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 8px;
+    padding-right: 8px;
+    font-size: small;
+  }
+}
+
+@media (max-width: 1440px) {
+  .fz-70 {
+    font-size: 43px;
+  }
+
+  .fz-40 {
+    font-size: 35px !important;
+  }
+
+  #akali .fz-30 {
+    font-size: 25px;
+  }
+
+  #leagueOfLegends .fz-30 {
+    font-size: 25px;
+  }
+
+  .py-20 {
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+
+  .px-20 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  /*  .back-hero {
+    background-image: none;
+  } */
+}
+
+.mmb-20 {
+  margin-top: 20px;
+}
+
+.mmt-30 {
+  margin: 30px;
+}
+
+@media (max-width: 991px) {
+  .align-centconten {
+    align-items: center;
+  }
+
+  .mmb-20 {
+    margin-top: 0;
+  }
+
+  .mmt-30 {
+    margin: 10px;
+  }
+
+  #akali .fz-30,
+  #leagueoflegends .fz-30,
+  #Valorant .fz-30,
+  #tft .fz-30 {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 768px) {
+  #tft .tft {
+    margin-bottom: 30px;
+  }
+
+  #Valorant .sova {
+    margin-bottom: 30px;
+  }
+
+  .fz-70 {
+    font-size: 33px;
+  }
+
+  .fz-40 {
+    font-size: 25px !important;
+  }
+
+  .fz-30 {
+    font-size: 20px;
+  }
+
+  .py-20 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .px-20 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .tm-riot {
+    width: 70px;
+    height: 30px;
+  }
+}
+
+@media (max-width: 425px) {
+  .fz-30 {
+    font-size: 17px;
+  }
+
+  .fz-20 {
+    font-size: 15px;
+  }
+
+  #akali .fz-30 {
+    font-size: 12px;
+  }
+
+  #leagueoflegends .fz-30 {
+    font-size: 12px;
+  }
+
+  .fz-70 {
+    font-size: 29px;
+  }
+
+  .tm-riot {
+    width: 50px;
+    height: 20px;
+  }
+}
+
+/*  --------------------------- Login ------------------ */
+
+#login {
+  background-color: #111111;
+  height: auto;
+  opacity: 0.9;
+  border: #282828 solid 1px;
+  padding: 40px;
+}
+
+.container-fluid {
+  width: 100%;
+}
+
+@media (max-width: 1280px) {
+  #login {
+    padding: 20px;
+    width: 55%;
+  }
+}
+
+@media (max-width: 1199px) {
+  #login {
+    padding: 20px;
+    width: 55%;
+  }
+}
+
+@media (max-width: 999px) {
+  #login {
+    padding: 10px;
+    width: 70%;
+  }
+}
+
+@media (max-width: 599px) {
+  #login {
+    padding: 10px;
+    width: 90%;
+  }
+}
+
+@media (max-width: 499px) {
+  #login {
+    padding: 10px;
+    width: 100%;
+  }
+}
+
+@media (max-width: 800px) {
+  div .input-login {
+    height: 55px !important;
+    font-size: 100% !important;
+  }
+}
+
+.input-login {
+  height: 75px !important;
+  font-size: 150% !important;
+  width: 90% !important;
+}
+
+#login-check {
+  font-size: 18px;
+  color: white;
+}
+
+@media (max-width: 450px) {
+  #login-check {
+    font-size: 10px;
+  }
+}
+
+#submit-btn {
+  border: #282828 solid 2px;
+  background-color: #111111;
+  padding: 25px;
+  border-radius: 10%;
+  color: white;
+}
+
+@media (max-width: 499px) {
+  div #login-title {
+    font-size: xx-large;
+  }
+}
+
+#login-title {
+  color: white;
+  font-weight: bold;
+}
+
+/*---------------------------Registro-------------------*/
+
+.pt-10 {
+  padding-top: 10px;
+}
+
+.container-1000 {
+  max-width: 1000px;
+  width: 100%;
+  height: 100%;
+}
+
+#backRegistro {
+  background-image: url(./assets/img/backRegistro.jpg);
+  background-size: cover;
+  height: 100vh;
+}
+
+.registro-form {
+  height: auto;
+  width: 65%;
+  margin: auto;
+  border: 2px solid #111111;
+  background-color: transparent;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.button {
+  border: none;
+  width: 100%;
+  color: white;
+  font-size: 15px;
+  background: #1d3557;
+  padding: 14px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.registrate {
+  width: 70%;
+  background-color: #b03336;
+  color: #f1faee;
+  padding: 10px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  height: 50px;
+}
+
+.inputs {
+  width: 100%;
+  height: 60px;
+  font-size: 20px;
+  border: transparent;
+  border-radius: 4px;
+  border: 2px solid #111111;
+  padding-left: 10px;
+}
+
+.textoJuega {
+  text-align: center;
+  position: relative;
+}
+
+@media (max-width: 1920px) {
+  .registro-form {
+    width: 70%;
+  }
+
+  #contenedorRegistro h1 {
+    font-size: 40px !important;
+  }
+}
+
+@media (max-width: 1467px) {
+  .registro-form {
+    width: 90%;
+  }
+
+  #contenedorRegistro h1 {
+    font-size: 35px !important;
+  }
+
+  #contenedorRegistro .fz-16 {
+    font-size: 16px;
+  }
+
+  .inputs {
+    height: 40px;
+    font-size: 16px;
+  }
+
+  .registrate {
+    width: 85%;
+    height: 40px;
+  }
+}
+
+@media (max-width: 991px) {
+  .registro-form {
+    width: 80%;
+  }
+
+  #contenedorRegistro h1 {
+    font-size: 25px !important;
+  }
+
+  #contenedorRegistro .fz-16 {
+    font-size: 14px;
+  }
+
+  .inputs {
+    height: 50px;
+    font-size: 14px;
+  }
+
+  .registrate {
+    width: 50%;
+    height: 50px;
+  }
+}
+
+@media (max-width: 982px) {
+  .registro-form {
+    width: 70%;
+  }
+
+  #contenedorRegistro h1 {
+    font-size: 25px !important;
+  }
+
+  #contenedorRegistro .fz-16 {
+    font-size: 14px;
+  }
+
+  .inputs {
+    height: 50px;
+    font-size: 14px;
+  }
+
+  .registrate {
+    width: 50%;
+    height: 50px;
+  }
+}
+
+@media (max-width: 840px) {
+  .registro-form {
+    width: 80%;
+  }
+
+  #contenedorRegistro h1 {
+    font-size: 25px !important;
+  }
+
+  #contenedorRegistro .fz-16 {
+    font-size: 14px;
+  }
+
+  .inputs {
+    height: 40px;
+    font-size: 14px;
+  }
+
+  .registrate {
+    width: 50%;
+    height: 40px;
+  }
+}
+
+@media (max-width: 500px) {
+  .registro-form {
+    width: 90%;
+  }
+
+  #contenedorRegistro h1 {
+    font-size: 22px !important;
+  }
+
+  #contenedorRegistro .fz-16 {
+    font-size: 12px;
+  }
+
+  .inputs {
+    height: 40px;
+    font-size: 12px;
+  }
+
+  .registrate {
+    width: 55%;
+    height: 40px;
+  }
+}
+
+/*---------------------------Termina Registro-------------------*/
+
+/* Tabla Registro */
+
+.bord-none {
+  border: none !important;
+}
+
+#tablareg {
+  color: white;
+  background-color: #111111;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+
+#edit {
+  margin-right: 5%;
+}
+
+#body-tabla {
+  background-image: url(https://o.aolcdn.com/images/dims?crop=1370%2C771%2C0%2C0&quality=85&format=jpg&resize=1600%2C900&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-05%2Fea0e3cb0-71bd-11e9-a2df-a081a8b11cb6&client=a1acac3e1b3290917d92&signature=64648609b06bbc95b22f22bf0f3f737b6c44072f);
+  background-repeat: no-repeat;
+  margin: 0;
+  padding: 0;
+  background-size: cover;
+  background-position: center;
+}
